@@ -7,6 +7,7 @@ public class MeuFrame extends JFrame {
 
         JButton botao = new JButton("Clique");
 
+        /* jorge */
         getContentPane().add(botao);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300,300);
